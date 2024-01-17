@@ -1,3 +1,3 @@
 $(document).ready(function () {
-    window.setTimeout(Load, 5000)
+    window.setTimeout(Load, 2000)
 });
